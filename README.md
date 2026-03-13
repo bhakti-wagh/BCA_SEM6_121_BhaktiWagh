@@ -1,47 +1,119 @@
-# BCA_SEM6_121
-<h1 align="center">Hi 👋, I'm Bhakti Wagh</h1>
-<h3 align="center">Data Analysis |Full stack Java Developer | Agentic AI | BCA Student from Pune </h3>
+# BCA SEM 6 – PHP Lab Programs
 
-<br/>
-
-- 🎓 Studying **BCA at Bharati Vidyapeeth, Pune** (2023–2026)
-- 💻 I love building with **Java, React.js & Spring Boot,Python ,AI/ML**
-- 🌱 Currently learning **PHP & Web Application Development**
-- 📫 Reach me at **bhaktisushilkadam@gmail.com**
-
-
-<br/>
+This repository contains basic **PHP programs created for BCA Semester 6 laboratory practice**.
+The programs demonstrate core PHP concepts such as variables, conditional statements, loops, form handling, and basic logical operations.
 
 ---
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhakti-wagh-337788273)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:bhaktisushilkadam@gmail.com)
+# 📂 Project Files
 
----
-### 🏆 Certifications
+### 1️⃣ Variables Programs
 
-- ✅ [Master in Full Stack Web Development with Java - ITVEDANT](https://www.linkedin.com/posts/bhakti-wagh-337788273_fullstackdeveloper-javadeveloper-springboot-activity-7356582750524452864-cA_6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELbQ9sBbzRh22XQGEshSF7XOw-ilhpPxEQ)
-- ✅ [Java Fundamentals - IBM](https://www.linkedin.com/posts/bhakti-wagh-337788273_new-certification-java-fundamentals-form-activity-7296106065367044097-UuI9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELbQ9sBbzRh22XQGEshSF7XOw-ilhpPxEQ)
-- ✅ [SQL and Relational Databases - IBM](https://www.linkedin.com/posts/bhakti-wagh-337788273_im-happy-to-share-that-ive-obtained-a-new-activity-7295858643571240960-AJJd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELbQ9sBbzRh22XQGEshSF7XOw-ilhpPxEQ)
-- ✅ [Web Development using HTML - IBM](https://www.linkedin.com/posts/bhakti-wagh-337788273_im-happy-to-share-that-ive-obtained-a-new-activity-7295846225768001538-unZ7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELbQ9sBbzRh22XQGEshSF7XOw-ilhpPxEQ)
-  
----
+These programs demonstrate how variables work in PHP.
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
+* **var.php** – Basic variable usage
+* **var2.php** – Variable operations example
+* **var3.php** – Advanced variable demonstration
+* **variables.php** – Different variable types in PHP
 
 ---
 
-### 📊 GitHub Stats
-![Bhakti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhakti-wagh&show_icons=true&theme=tokyonight)
+### 2️⃣ Conditional Statement Programs
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhakti-wagh&layout=compact&theme=tokyonight)
+* **conditional.php** – Demonstrates conditional statements (`if`, `else`, `elseif`)
+* **ifelse.php** – Example of if-else condition
+* **even.php** – Program to check whether a number is even or odd
+* **voting.php** – Checks whether a person is eligible to vote
+
+---
+
+### 3️⃣ Loop Programs
+
+* **loop.php** – Demonstrates loop structures such as `for` and `while`
+
+---
+
+### 4️⃣ Number Logic Programs
+
+* **largestNo.php** – Finds the largest number among given numbers
+* **findlargestNo.php** – Another implementation to determine the largest value
+* **sub.php** – Performs subtraction between numbers
+
+---
+
+### 5️⃣ Date / Time Programs
+
+* **day.php** – Displays or calculates day-related information
+* **agecal.php** – Calculates age based on input year
+
+---
+
+### 6️⃣ Form Handling Programs
+
+* **phpform.php** – Basic PHP form example
+* **inputfromuser.php** – Accepts input from user
+* **postineg.php** – Determines whether a number is positive or negative
+
+---
+
+### 7️⃣ String / Character Programs
+
+* **vowcon.php** – Checks whether a character is vowel or consonant
+
+---
+
+### 8️⃣ Testing File
+
+* **test.php** – Test PHP program for practice
+
+---
+
+# ⚙ Technologies Used
+
+* **PHP**
+* **HTML**
+* **XAMPP (Apache Server)**
+* **Git & GitHub**
+
+---
+
+# ▶ How to Run the Project
+
+1. Install **XAMPP**
+2. Copy the project folder into:
+
+```
+xampp/htdocs/
+```
+
+3. Start **Apache Server** from XAMPP Control Panel.
+
+4. Open your browser and run:
+
+```
+http://localhost/labphp/
+```
+
+Example:
+
+```
+http://localhost/labphp/voting.php
+```
+
+---
+
+# 🎓 Purpose of this Repository
+
+This repository was created for:
+
+* Practicing **PHP programming**
+* Completing **BCA Semester 6 lab assignments**
+* Learning **server-side scripting**
+* Practicing **GitHub version control**
+
+---
+
+# 👩‍💻 Author
+
+**Bhakti Wagh**
+BCA Student
